@@ -24,4 +24,4 @@ Alternatively, refer to `requirements.txt` in the root or other tasks for guidan
 
 ## Usage
 
-Open the notebook in Jupyter and run the cells sequentially to follow along with the Iris classification workflow. Feel free to modify the model or dataset as an exercise.
+Open the notebook in Jupyter and run the cells sequentially to follow along with the Iris classification workflow. The included model (e.g., logistic regression or another classifier) is used to learn the relationship between the flower features and species, allowing predictions on new samples. Feel free to modify the model or dataset as an exercise.
